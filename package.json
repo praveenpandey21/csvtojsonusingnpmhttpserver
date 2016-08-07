@@ -1,0 +1,11 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "description": "my csvtojson using automatic hhttpserver nodejs",
+  "main": "myjson.js",
+  "scripts": {
+    "test": "node myjson.js"
+  },
+  "author": "praveenpandey",
+  "license": "ISC"
+}
